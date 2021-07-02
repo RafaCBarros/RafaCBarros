@@ -1,5 +1,4 @@
-
-##Perfil (Português)
+## Perfil (Português)
 - 👋 Olá, eu sou @RafaelaBarros, atualmente no processo de aprender e conseguir meu Bacharel em Ciência da Computação.
 - Eu jogo quase qualquer RPG de mesa com gênero fantasia medieval - meu atual favorito é PF2E -, tenho vontade de desenhar nos momentos mais inoportunos - papeis avulsos não sobreviverão -, e perco o foco para divagar por razões bem menores.
 - Eu ainda estão aprendendo a usar GitHub - vergonha para minha família e minha vaca - e outras plataformas como prova concreta que eu sei o que estou aprendendo, porque só minhas palavras vão me levar até uma parte do caminho.
@@ -7,7 +6,7 @@
 - Se quiser entrar em contato, meu email é 'rafaelaluiza.cbarros@gmail.com'.
 
 
-##Profile (English)
+## Profile (English)
 
 - 👋 Hi, I’m @RafaelaBarros, currently getting my Bachelor Degree in Computer Science.
 - I will play almost any medieval fantasy TTRPG, have an urge to draw at the weirdest times and probably space out at the weirdest moments/for the most mundane reason.
