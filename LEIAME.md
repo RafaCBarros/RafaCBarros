@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou @RafaelaBarros, atualmente no processo de aprender e conseguir meu Bacharel em Ciência da Computação.
+- Eu jogo quase qualquer RPG de mesa com gênero fantasia medieval - meu atual favorito é PF2E -, tenho vontade de desenhar nos momentos mais inoportunos - papeis avulsos não sobreviverão -, e perco o foco para divagar por razões bem menores.
+- Eu ainda estão aprendendo a usar GitHub - vergonha para minha família e minha vaca - e outras plataformas como prova concreta que eu sei o que estou aprendendo, porque só minhas palavras vão me levar até uma parte do caminho.
+- Ainda tenho muito a aprender, mas eu me esforço em aprender. Tenho conhecimento de JavaScript, Java, C, HTML e CSS e conceitos não ligados a linguagens de programação, como Programação Orientada Objeto. E agora pretendo usar esses conhecimentos.
+- Se quiser entrar em contato, meu email é 'rafaelaluiza.cbarros@gmail.com'.
